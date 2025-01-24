@@ -1,0 +1,11 @@
+run:
+Welcome to the movie booking system for Blockbuster Movie!
+
+User A successfully booked 10 seat(s).
+
+Remaining seats: 10
+
+Error:!!!! Not enough seats available for User B. Requested: 12, Available: 10
+
+Final remaining seats: 10
+BUILD SUCCESSFUL (total time: 0 seconds)
