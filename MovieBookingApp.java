@@ -1,5 +1,5 @@
 package moviebookingapp;
-
+// this is the edited text!
 class MovieBookingApp {
     private final String movieName; 
     private int totalSeats; 
